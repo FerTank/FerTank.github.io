@@ -1,0 +1,28 @@
+/* Estilos para o Título Principal */
+h1 {
+    font-size: 30px;   /* Tamanho do texto */
+    font-family: Arial, sans-serif;  /* Fonte do texto */
+    color: blue;  /* Cor do texto */
+}
+
+/* Estilos para o Título Secundário */
+h2 {
+    font-size: 20px;   /* Tamanho do texto */
+    font-family: Arial, sans-serif;  /* Fonte do texto */
+    color: red;  /* Cor do texto */
+}
+
+/* Estilos para os Parágrafos */
+p {
+    font-size: 15px;   /* Tamanho do texto */
+    font-family: 'Times New Roman', serif;  /* Fonte do texto */
+    color: black;  /* Cor do texto */
+}
+
+/* Estilos para Títulos de Comandos */
+h3 {
+    font-size: 18px;
+    font-family: Arial, sans-serif;
+    color: #333;
+    margin-top: 20px;
+}
